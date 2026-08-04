@@ -1,0 +1,8 @@
+{
+  "name": "Sonsuz Harf Matrisi",
+  "description": "Sayılar yerine harflerden oluşan sonsuz harf matrisi, roman rakamlı koordinatlar ve anlamlı kelime keşfetme özelliği.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
